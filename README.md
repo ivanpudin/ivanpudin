@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **ivanpudin/ivanpudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## [LinkedIn](https://www.linkedin.com/in/ivan-pudin-8524b3268/)
+### [LinkedIn](https://www.linkedin.com/in/ivan-pudin-8524b3268/)
