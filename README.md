@@ -1,6 +1,5 @@
 ![logo](https://github.com/ivanpudin/ivanpudin/blob/main/logo.jpg)
 
-*At present, student in Business College Helsinki*
 <!--
 **ivanpudin/ivanpudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-*You can reach me at ivan.pudin@edu.bc.fi*
+*You can reach me at ivan.pudin@student.lut.fi*
 
 ![profile view count](https://komarev.com/ghpvc/?username=ivanpudin&color=grey&style=for-the-badge)
